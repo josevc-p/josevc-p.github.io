@@ -6,6 +6,4 @@ categories:
 - tutorial
 ---
 
-## Mi primer blog
-
 **Bienvenido!** Espero que te guste mi Blog.
